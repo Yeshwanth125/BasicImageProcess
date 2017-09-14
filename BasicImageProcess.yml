@@ -1,0 +1,5 @@
+name: BasicImageProcess
+channels:
+- defaults
+prefix: C:\Users\yeshwanth\Anaconda3\envs\BasicImageProcess
+
